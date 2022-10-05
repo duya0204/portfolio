@@ -1,0 +1,34 @@
+[
+    {
+        "title" : "회사소개 페이지",
+        "src" : "/img/page.e6ff3acc.gif",
+        "period" : "2021. 06 ~ 2021. 08 (2개월) + a",
+        "man" : "BE 1명 / FE 1명   (FE 기여도 100%)",
+        "purpose" : "사내 회사소개 페이지로 Vue를 사용하여 진행함",
+        "content" : "기업 정보와 채용공고, 입점사 문의 등 이용할 수 있는 웹 페이지",
+        "detail" : [
+            "- 웹퍼블리싱, 반응형 페이지 구현",
+            "- 프론트엔드 기능 구현을 전담하여 업무 수행",
+            "- i18n 을 사용한 다국어 처리",
+            "- 카카오 map API를 이용한 Contact 페이지 개발",
+            "- Axios로 입점사 문의 페이지 데이터 전송"
+        ],
+        "language" : "Vue2, Javascript, Nodejs, REST API, Axios",
+        "url" : "https://seohung.co.kr/ko/"
+    },
+    {
+        "title" : "자사몰 플랫폼",
+        "src" : "/img/project8.9864ce4d.jpg",
+        "period" : "2022. 06 ~현재",
+        "man" : "BE 1명 / FE 1명   (FE 기여도 100%)",
+        "purpose" : "기존 쇼핑몰솔루션을 이용한 자사몰 기능의 한계로 인한 자사몰 플랫폼 프로젝트로 Vue를 사용하여 진행함",
+        "content" : "자사제품 및 입점사 제품을 등록, 관리하여 제품을 판매하는 웹서비스",
+        "detail" : [
+            "- 프론트엔드 기능 구현을 전담하여 업무 수행",
+            "- i18n 을 사용한 다국어 처리",
+            "- Axios로 REST API 통신"
+        ],
+        "language" : "Vue2, Javascript, Nodejs, REST API, Axios",
+        "url" : "-"
+    }
+]
