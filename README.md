@@ -29,3 +29,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 # portfolio_2022.github.io
 # portfolio_2022.github.io
 # portfolio_2022.github.io
+# portfolio_2022.github.io
